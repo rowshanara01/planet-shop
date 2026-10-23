@@ -55,7 +55,6 @@ npm run build
 
 The production build can be deployed for free on Vercel, Netlify or GitHub Pages.
 
-📸 Screenshots
 md
 ![Home Page](screenshots/home.png)
 🤝 Contributing
