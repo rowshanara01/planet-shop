@@ -35,7 +35,7 @@ npm
 Installation
 Clone the repository
 bash
-   git clone https://github.com/rowshanara01/your-repo-name.git
+ 
 Go into the project folder
 bash
    cd your-repo-name
