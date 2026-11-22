@@ -57,7 +57,7 @@ The production build can be deployed for free on Vercel, Netlify or GitHub Pages
 
 md
 ![Home Page](screenshots/home.png)
-🤝 Contributing
+#### Contributing
 
 Contributions, issues and feature requests are welcome.
 
