@@ -1,10 +1,10 @@
-Project Name
+#####Project Name
 
 A dynamic, responsive web application built with JavaScript, HTML and CSS.
 
 Show Image Show Image Show Image
 
-📌 About
+ About
 
 Replace this paragraph with a short description of your project: what it does, who it is for, and what problem it solves.
 
@@ -13,7 +13,7 @@ Interactive and dynamic user interface
 Fully responsive design for mobile, tablet and desktop
 Clean, modular and reusable code
 Easy setup and customization
-🛠️ Tech Stack
+ Tech Stack
 JavaScript (ES6+) – application logic and interactivity
 HTML5 – page structure
 CSS3 – styling and responsive layout
