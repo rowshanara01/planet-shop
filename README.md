@@ -18,7 +18,7 @@ JavaScript (ES6+) – application logic and interactivity
 HTML5 – page structure
 CSS3 – styling and responsive layout
 Node.js & npm – development tooling
-📁 Project Structure
+#### Project Structure
 project-name/
 ├── public/
 │   └── index.html
