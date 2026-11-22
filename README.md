@@ -51,7 +51,7 @@ bash
 Build for production
 bash
 npm run build
-🌐 Deployment
+#### Deployment
 
 The production build can be deployed for free on Vercel, Netlify or GitHub Pages.
 
