@@ -28,7 +28,7 @@ project-name/
 │   └── index.js
 ├── package.json
 └── README.md
-🚀 Getting Started
+#### Getting Started
 Prerequisites
 Node.js (v18 or higher recommended)
 npm
