@@ -8,7 +8,7 @@ Show Image Show Image Show Image
 
 Replace this paragraph with a short description of your project: what it does, who it is for, and what problem it solves.
 
-✨ Features
+#### Features
 Interactive and dynamic user interface
 Fully responsive design for mobile, tablet and desktop
 Clean, modular and reusable code
